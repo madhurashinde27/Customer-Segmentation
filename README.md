@@ -129,6 +129,10 @@ These customers show moderate purchasing frequency and spending.
 
 🔗 **[View Live Dashboard](https://customer-segmentation-z274vfts22ftrqbdfmhas2.streamlit.app/)**
 
+### Dashboard Preview
+
+![Customer Segmentation Dashboard](dashboard.png)
+
 An interactive Streamlit dashboard was developed to visualize the customer segments and RFM analysis.
 
 The dashboard includes:
