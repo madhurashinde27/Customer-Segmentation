@@ -154,11 +154,10 @@ Customer-Segmentation/
 ├── output/
 │   └── customer_segments.csv
 │
-├── analysis.py
-│
 ├── dashboard/
 │   └── app.py
 │
+├── analysis.py
 └── README.md
 
 
